@@ -52720,13 +52720,6 @@
     {
       "filePath": "\/Users\/avosukiasyan\/Documents\/Projects\/Mati\/ios-framework\/mati-kyc-sdk\/MatiSupportFiles\/MatiConstants\/MatiConfig.swift",
       "kind": "StringLiteral",
-      "offset": 345,
-      "length": 75,
-      "value": "\"https:\/\/af8a47c7ee5040af9b12025ddf490040@o566293.ingest.sentry.io\/5708998\""
-    },
-    {
-      "filePath": "\/Users\/avosukiasyan\/Documents\/Projects\/Mati\/ios-framework\/mati-kyc-sdk\/MatiSupportFiles\/MatiConstants\/MatiConfig.swift",
-      "kind": "StringLiteral",
       "offset": 464,
       "length": 36,
       "value": "\"https:\/\/getmati.com\/termsofservice\""
