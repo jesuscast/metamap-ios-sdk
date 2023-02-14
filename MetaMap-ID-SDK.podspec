@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-s.name                = "MetaMap-ID-SDK"
+s.name                = "MetaMapSDK"
 s.version             = "3.12.0"
 s.summary             = "MetaMap SDK"
 s.description         = "MetaMap SDK for iOS"
